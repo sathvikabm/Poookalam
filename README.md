@@ -8,9 +8,9 @@
 
 ## Draw and color
 
-![DrawColor](./2.png)
+![DrawColor](./2.jpg)
 
 
 ## ARView
 
-![ARView](./3.png)
+![ARView](./3.jpeg)
